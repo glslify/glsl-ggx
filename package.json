@@ -3,13 +3,22 @@
   "version": "1.0.0",
   "description": "glsl ggx lighting model",
   "main": "index.js",
-  "directories": {
-    "example": "example"
-  },
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [],
+  "keywords": [
+    "glslify",
+    "glsl",
+    "lighting",
+    "webgl",
+    "stackgl",
+    "regl"
+  ],
   "author": "substack",
-  "license": "BSD"
+  "license": "BSD",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/substack/glsl-ggx.git"
+  },
+  "bugs": {
+    "url": "https://github.com/substack/glsl-ggx/issues"
+  },
+  "homepage": "https://github.com/substack/glsl-ggx#readme"
 }
